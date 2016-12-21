@@ -1,4 +1,4 @@
-class StaticController < ActionController::Base
-  def hompage
+class StaticController < ApplicationController
+  def homepage
   end
 end
